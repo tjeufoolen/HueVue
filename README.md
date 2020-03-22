@@ -1,24 +1,12 @@
-# huevue
+# HueVue
+Simple vue application which can enable philips hue scenes.
 
-## Project setup
-```
-npm install
-```
+## Getting Started
+1. Clone this project.
+2. Run `npm install`
+3. Run `npm run build`
+4. Copy the contents of `dist` to your server.
+5. Enjoy! :tada:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Authors
+- [Tjeu Foolen](https://github.com/tjeufoolen)
