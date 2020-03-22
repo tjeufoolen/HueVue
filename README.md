@@ -11,3 +11,6 @@ Simple vue application to enable philips hue scenes.
 
 ## Authors
 - [Tjeu Foolen](https://github.com/tjeufoolen)
+
+## License
+[MIT](https://github.com/tjeufoolen/HueVue/blob/master/LICENSE)
