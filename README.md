@@ -1,5 +1,5 @@
 # HueVue
-Simple vue application which can enable philips hue scenes.
+Simple vue application to enable philips hue scenes.
 
 ## Getting Started
 1. Clone this project.
