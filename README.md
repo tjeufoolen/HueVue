@@ -1,6 +1,9 @@
 # HueVue
 Simple vue application to enable philips hue scenes.
 
+## Screenshot
+![screenshot of the application](https://raw.githubusercontent.com/tjeufoolen/HueVue/master/screenshot.png "Screenshot")
+
 ## Gettings started
 1. Clone this project
 2. Run `npm install`
