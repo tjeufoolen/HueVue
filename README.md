@@ -1,12 +1,13 @@
 # HueVue
 Simple vue application to enable philips hue scenes.
 
-## Getting Started
-1. Clone this project.
+## Gettings started
+1. Clone this project
 2. Run `npm install`
-3. Run `npm run build`
-4. Copy the contents of `dist` to your server.
-5. Enjoy! :tada:
+3. Fill your credentials inside the `.env`
+4. Run `npm run build`
+5. Copy the contents of the `dist` directory to your webserver
+6. Visit the website and enjoy! :tada:
 
 ## Authors
 - [Tjeu Foolen](https://github.com/tjeufoolen)
