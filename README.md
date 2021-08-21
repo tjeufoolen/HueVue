@@ -1,8 +1,8 @@
 # HueVue
-Simple vue application to enable philips hue scenes.
+The first project I have written in VueJS. HueVue has the ability to read and set scenes using the Philips Hue API.
 
 ## Screenshot
-![screenshot of the application](https://raw.githubusercontent.com/tjeufoolen/HueVue/master/screenshot.png "Screenshot")
+![screenshot of the application](<./screenshot.png "Screenshot")
 
 ## Gettings started
 1. Clone this project
@@ -14,6 +14,3 @@ Simple vue application to enable philips hue scenes.
 
 ## Authors
 - [Tjeu Foolen](https://github.com/tjeufoolen)
-
-## License
-[MIT](https://github.com/tjeufoolen/HueVue/blob/master/LICENSE)
