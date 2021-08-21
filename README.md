@@ -2,7 +2,7 @@
 The first project I have written in VueJS. HueVue has the ability to read and set scenes using the Philips Hue API.
 
 ## Screenshot
-![screenshot of the application](<./screenshot.png)
+![screenshot of the application](screenshot.png)
 
 ## Gettings started
 1. Clone this project
